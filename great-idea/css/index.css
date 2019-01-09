@@ -334,7 +334,7 @@ footer {
 .info {
 	display: inline-flex;
 	flex-direction: column;
-	width: calc((100% - var(--grid-horizontal-gutter))/2);
+	width: 50%;
 	margin-top: 4rem;
 }
 
@@ -347,5 +347,5 @@ footer {
 }
 
 .info__img {
-	height: 100%;
+	width: 45%;
 }
